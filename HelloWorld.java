@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class HelloWorld here.
+ * What does this program do???  
  * 
- * @author (your name) 
- * @version (a version number or a date)
  */
 public class HelloWorld
 {
